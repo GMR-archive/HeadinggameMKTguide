@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /privacy.html
+# 도메인이 정해지면 SITE_URL을 넣어 다시 빌드하면 Sitemap 줄이 추가됩니다
